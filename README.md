@@ -26,9 +26,11 @@ That's where my script comes in. You get the login simplicity of ZwiftHacks, and
 <i>I recommend saving the program somewhere memorable, like on the Desktop, to make it easier to find.</i>
 
 <p>The other way for the more techincally inclined:</p>
-    `gh repo clone wassupluke/better-zwift-launcher`
-    `cd better-zwift-launcher`
-    `pip install -r requirements.txt`
+<ol>
+    <li>gh repo clone wassupluke/better-zwift-launcher</li><i>note where you install this</i>
+    <li>cd better-zwift-launcher</li>
+    <li>pip install -r requirements.txt</li>
+</ol>
 
 ### USING THE SCRIPT
 <p>You've got options:
