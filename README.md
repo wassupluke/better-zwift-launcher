@@ -15,7 +15,7 @@ That's where my script comes in. You get the login simplicity of ZwiftHacks, and
     <li><a href="https://zwifthacks.com/zwift-login/">zwift-login by ZwiftHacks</a></li>
     <li>Python</li>
 </ol>
-<i>I have this running on Windows 11 Pro version 23H2 with Python 3.12.7, zwift-login v47, and Zwift 1.1.13.0</i>
+<i>I have this running on Windows 11 Pro version 23H2 with Python version 3.12.7, zwift-login version 47, Zwift Launcher version 1.1.13.0, and Zwift Game version 1.77.0</i>
 
 ### INSTALLATION
 <p>Easiest method (for most folks):</p>
