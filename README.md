@@ -22,7 +22,7 @@ That's where my script comes in. You get the login simplicity of ZwiftHacks, and
 <ol>
     <li>Go to <a href="https://github.com/wassupluke/better-zwift-launcher/blob/master/BEZL.exe">https://github.com/wassupluke/better-zwift-launcher/blob/master/BEZL.exe</a></li>
     <li>Click the "Download raw file" button to save the program to your computer</li>
-<ol>
+</ol>
 <i>I recommend saving the program somewhere memorable, like on the Desktop, to make it easier to find.</i>
 
 <p>The other way for the more techincally inclined:</p>
