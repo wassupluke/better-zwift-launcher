@@ -38,3 +38,8 @@ You can run the script from any terminal/command line with `python PATH_TO_BEZL.
 or
 run the BEZL.exe file.
 </p>
+
+### PRO TIP
+Couple this with a custom keyboard shortcut in the Keyboard Manager Utility of Microsoft PowerToys for an even more streamlined way to get up and riding.
+
+# RIDE ON!
