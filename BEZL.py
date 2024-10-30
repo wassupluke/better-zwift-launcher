@@ -1,6 +1,6 @@
 import os, pyautogui, subprocess, time, win32gui, win32con
-
-os.chdir("C:\\Users\\wassu\\AppData\\Roaming\\ZwiftHacks\\src")
+user_profile = os.path.expanduser("~")
+os.chdir(user_profile + "\\AppData\\Roaming\\ZwiftHacks\\src")
 subprocess.run(
         ["C:\\Program Files\\AutoHotkey\\AutoHotkey.exe", "zwift-login.ahk", "/launch"], 
         check=True, text=True
